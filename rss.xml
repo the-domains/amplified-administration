@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Independent Songwriter and Publisher Services]]></title>
-        <description><![CDATA[Independent Songwriter and Publisher Services]]></description>
+        <title><![CDATA[Amplified Administration]]></title>
+        <description><![CDATA[Amplified Administration]]></description>
         <link>https://thegrid.ai/amplified-administration/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 Nov 2015 23:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2015 23:39:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/amplified-administration/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CONTACT US]]></title>
+            <description><![CDATA[<h1>CONTACT US</h1>]]></description>
+            <link>https://thegrid.ai/amplified-administration/contact-us/index.html</link>
+            <guid isPermaLink="false">cf10575f-1c28-48f7-8832-d42b2b879de5</guid>
+            <pubDate>Thu, 05 Nov 2015 23:39:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Beer Up (Lagerberg/Eldredge)]]></title>
             <description><![CDATA[<article><h1>Beer Up (Lagerberg/Eldredge)</h1><p>Stream Beer Up (Lagerberg/Eldredge) by Stryker Music Group from desktop or your mobile device</p><img src="https://i1.sndcdn.com/avatars-000025533997-p7ubra-t500x500.jpg"></article>]]></description>
