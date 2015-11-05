@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-05T23:39:25.256Z'
-dateModified: '2015-11-05T23:39:14.785Z'
-title: CONTACT US
+datePublished: '2015-11-05T23:46:01.683Z'
+dateModified: '2015-11-05T23:45:51.678Z'
+title: Contact Us
 authors: []
 publisher:
   name: null
@@ -21,10 +21,10 @@ url: contact-us/index.html
 _type: Article
 
 ---
-# CONTACT US
+# Contact Us
 
-To license one of our songs: licensing@amplifiedadmin.com
+Amplified Administration offers independent songwriters and music publishers with the tools and services they need to succeed in the ever-changing music industry.
 
-All other inquiries: info@amplifiedadmin.com
+For licensing inquiries, please contact licensing@amplifiedadmin.com
 
-Phone: 615.852.6528
+For all other inquiries, please contact mark@amplifiedadmin.com
