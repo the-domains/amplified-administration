@@ -1,13 +1,16 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://soundcloud.com'
-  name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-  domain: soundcloud.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://soundcloud.com/stryker-music-group/beer-up-lagerberg-eldredge'
+inLanguage: null
+starred: false
 keywords: []
 description: Stream Beer Up (Lagerberg/Eldredge) by Stryker Music Group from desktop or your mobile device
+datePublished: '2015-11-06T00:12:22.540Z'
+dateModified: '2015-11-05T23:51:31.518Z'
+author: []
+related: []
 app_links:
   - type: ios
     app_name: SoundCloud
@@ -19,15 +22,15 @@ app_links:
     package: com.soundcloud.android
   - url: 'soundcloud://sounds:95267355'
     type: android
-isBasedOnUrl: 'https://soundcloud.com/stryker-music-group/beer-up-lagerberg-eldredge'
 title: Beer Up (Lagerberg/Eldredge)
-datePublished: '2015-11-05T23:19:32.855Z'
-dateModified: '2015-11-05T23:17:52.821Z'
 sourcePath: _posts/2015-11-05-beer-up-lagerbergeldredge.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: SoundCloud
+  domain: soundcloud.com
+  url: 'https://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
 _type: AudioObject
 _context: 'http://schema.org'
 
