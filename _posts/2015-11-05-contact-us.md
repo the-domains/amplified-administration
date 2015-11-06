@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-06T00:12:13.666Z'
-dateModified: '2015-11-05T23:54:00.348Z'
+datePublished: '2015-11-06T00:15:58.742Z'
+dateModified: '2015-11-06T00:14:08.208Z'
 title: Contact Us
 sourcePath: _posts/2015-11-05-contact-us.md
 published: true
