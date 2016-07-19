@@ -3,20 +3,16 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-06T00:16:48.607Z'
-dateModified: '2015-11-06T00:15:45.860Z'
+datePublished: '2016-07-18T18:33:15.831Z'
+dateModified: '2016-07-18T18:32:25.512Z'
 title: '#ICANTMAKEYOULOVEMETHURSDAYS - Brandi Carlile'
 sourcePath: _posts/2015-11-06-icantmakeyoulovemethursdays.md
-published: true
+author: []
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
+starred: false
 url: icantmakeyoulovemethursdays/index.html
 _type: Article
 
