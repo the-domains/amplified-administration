@@ -1,7 +1,7 @@
 name: Amplified Administration
 favicon: null
-layout_spectrum: 0.41645
-typography_spectrum: 0.74101
+layout_spectrum: 0.53513
+typography_spectrum: 0.33293
 title: Amplified Administration
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#51170b'
     - '#dab57e'
     - '#5f3d38'
-  brandStrength: 1
-  lightness: 0.5
-  saturation: 0.375
-  rhythmicContrast: 0.75
+  brandStrength: 0
+  lightness: 0.4375
+  saturation: 0.625
+  rhythmicContrast: 0.5
 purpose: []
