@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-18T18:33:15.831Z'
-dateModified: '2016-07-18T18:32:25.512Z'
+datePublished: '2016-07-18T18:47:36.188Z'
+dateModified: '2016-07-18T18:47:10.972Z'
 title: '#ICANTMAKEYOULOVEMETHURSDAYS - Brandi Carlile'
 sourcePath: _posts/2015-11-06-icantmakeyoulovemethursdays.md
 author: []
@@ -18,5 +18,3 @@ _type: Article
 
 ---
 # \#ICANTMAKEYOULOVEMETHURSDAYS - Brandi Carlile
-
-<iframe width="854" height="480" src="https://www.youtube.com/embed/0KuX2-Futi0" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
